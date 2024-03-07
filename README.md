@@ -4,7 +4,7 @@
 I love programming and I am constatly in state of expanding my knowledge of tools, technologies and overall understanding of machines :microscope:  
 My dream is to create deeply engaging and creative games that will successfully bring my ideas to life :video_game:
 
-Even thought I am a newbie, I aiming to write :sparkles:clean code:sparkles:, while also use the best techniques to run the code as effective as possible :athletic_shoe:
+Even thought I am a newbie, I aiming to write :sparkles:clean code:sparkles:, while also use the best techniques to run the code as effectively as possible :athletic_shoe:
 
 Also, adventures into world-building :world_map:, 3D modelling :globe_with_meridians:, video editing :clapper: and graphic design :framed_picture: are a common things for me 💭
 
