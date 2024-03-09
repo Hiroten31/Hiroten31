@@ -14,16 +14,13 @@ I am working/worked with:
 
 # GitHub's stats :scroll:
 
+
 <a href="https://github.com/Hiroten31">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Hiroten31&theme=aura_dark&show_icons=true&include_all_commits=true"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiroten31&layout=donut&theme=aura_dark"/>
-</a>  
+</a>
+
 <br/>
-
-# Stuff I am working on right now :building_construction:
-
-<b> In progress </b>  
-<img src="https://github.com/Hiroten31/Hiroten31/assets/97809912/65a65b83-8ee7-4483-b8d3-d496520f58c7"/>  
 <br/>
 
 # Completed projects :clinking_glasses:
@@ -36,7 +33,26 @@ I am working/worked with:
     <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Hiroten31&repo=MemoryGame&theme=aura_dark&show_icons=true?"/>
   </a>
 </a>  
+
 <br/>
+
+# Stuff I am working on right now :building_construction:
+
+I am currently developing my first, simple game. Two dimensional Tic Tac toe with some nice textures, space-themed textures. I am going to add:
+- Main menu with "Play"
+- Game scene with interactive objects to play
+- Timer and scoreboard
+<a href="https://github.com/Hiroten31/XOX_2D">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Hiroten31&repo=XOX_2D&theme=aura_dark&show_icons=true?"/>
+</a>
+
+After that I'll probably extend it with:
+- Menu options like "Settings", "Records"
+- Game settings like size of matrix, limited time, "duck"-like gameplay similar to chess gamemode(?)
+- Music effects
+
+<br/>
+
 
 # My TODO :memo:
 
