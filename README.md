@@ -9,7 +9,7 @@ Even thought I am a newbie, I aiming to write :sparkles:clean code:sparkles:, wh
 Also, adventures into world-building :world_map:, 3D modelling :globe_with_meridians:, video editing :clapper: and graphic design :framed_picture: are a common things for me 💭
 
 I am working/worked with:  
-[![My Skills](https://skillicons.dev/icons?i=java,ps,cpp,visualstudio,html,css,eclipse,blender)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=java,ps,cpp,unity,cs,visualstudio,html,css,eclipse,blender)](https://skillicons.dev)  
 <br/>
 
 # GitHub's stats :scroll:
