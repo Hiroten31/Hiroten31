@@ -38,7 +38,7 @@ I am working/worked with:
 
 # Stuff I am working on right now :building_construction:
 
-I am currently developing my first, simple game. Two dimensional Tic Tac toe with some nice textures, space-themed textures. I am going to add:
+I am currently developing my first, simple game. Two dimensional Tic Tac Toe with some nice, space-themed textures. I am going to add:
 - Main menu with "Play"
 - Game scene with interactive objects to play
 - Timer and scoreboard
