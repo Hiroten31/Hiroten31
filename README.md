@@ -68,17 +68,54 @@ At work I am using those technologies:
 
 # Stuff I am working on right now :building_construction:
 
-- [ ] This README
-- [ ] Udemy courses
-- [ ] Getting some time to code
-- [ ] Getting university's projects done.
+##### Improving details on kitchen's render in Blender :fried_egg:
+I needed a background for my `Jar The Beans` game. Forest seemed little out of place, so I searched up some free kitchens online.
+
+It turned out every of the available kitchens have over 400.000 triangles, reaching to an almost 1 milion. It was way too much.
+
+This lead me to create my own one with a goal to make it optimized while looking good enough for a background usage.
+
+It is almost completed, I used it already in Blender animation for university's project. I just want to add some last detail and finishing touches.
+
+
+##### Close up `Jar The Beans` game :beans: :jar:
+Started as a learning project it evolved with ideas. It is still a simple game, but with more variantions coming.
+
+I want to develop it enough to be in an usable and working state. I want to make it modular, just to be able to add more content without major issues.
+
+The final goal is 50 types of Jars, all with accesories, personalities, dialogues and proper hitboxes. 
+For my now my goal is about 15 of them.
+
+
+##### Develop a fully working website (WdAI) :spiral_note_pad:
+I needed a tool to write and visualize the stories, characters, events of the worlds I try to come up with. The problem is, there isn't a tool for that.
+
+So I decided that I can create one and just happen that at University we have a subject about Web development.
+
+I am going to build up a website which will let you add notes, tag, group and visualize them in order to clearly show you in which areas you may lack the content.
+
+An example: you have created two cities, one have assigned to it 50 stories and 20 characters, the other one has only 20 stories and 4 characters. By visualizing it in nested lists (or size-reactive dots) you'll see where in the story you may lack extra content letting you balance it evenly and not lost the track of it complexity.
+
+
+##### Make a game in Unreal Engine 5 as Uni project: chess or checkers :chess_pawn:
+One of the University subject is basically OOP - and we can make anything that includes it.
+
+So to futher improve my skills I am going to follow a tutorial and create a game in UE5 - either about chess or checkers.
+
+That's all to it.
 
 <br/>
 
 
 # My TODO :memo:
 
-- Read the book: "Unity and C#. Practice of programming games" by Jacek Ross and follow the pace of the book in Unity :book:
-- Make some proper renders in Blender :game_die:
-- Make the 2D Tic Tac Toe game playable until end of the March :x::o::x:
-- Also reinstall OS on my laptop to Debian :penguin:
+- [x] This README :pencil:
+- [ ] Udemy courses :blue_book:
+    - [ ] The Ultimate Git Course - with Applications in Unreal Engine by Stephen Ulibarri
+    - [ ] Learn C++ for Game Development by Stephen Ulibarri
+    - [ ] Unreal Engine 5 Blueprints - The Ultimate Developer Course by Stephen Ulibarri
+    - [ ] Unreal Engine 5 C++ - The Ultimate Game Developer Course by Stephen Ulibarri
+    - [ ] Unreal Engine 5 Gameplay Ability System - Top Down RPG by Stephen Ulibarri
+- [ ] Reinstall OS on my private laptop :cd:
+- [ ] Organize Google Drive and photos from it :floppy_disk:
+- [ ] Read the book: "Unity and C#. Practice of programming games" by Jacek Ross and follow the pace of the book in Unity :book:
