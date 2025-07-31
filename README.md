@@ -68,42 +68,29 @@ At work I am using those technologies:
 
 # Stuff I am working on right now :building_construction:
 
-#### Improving details on kitchen's render in Blender :fried_egg:
-I needed a background for my `Jar The Beans` game. Forest seemed little out of place, so I searched up some free kitchens online.
+### 1. Improving details on kitchen's render in Blender :fried_egg:
+I needed a background for my `Jar The Beans` game. Forest seemed a little out of place, so I looked up some free kitchens online. <br/>
+It turned out each of the available kitchens had over 400.000 triangles, reaching up to almost 1 million. It was way too much. <br/>
+This led me to create my own one with the goal to making it optimized while looking good enough for background use. <br/>
+It is almost complete, I already used it in Blender animation for a university project. I just want to add some final details and finishing touches. <br/>
 
-It turned out every of the available kitchens have over 400.000 triangles, reaching to an almost 1 milion. It was way too much.
+### 2. Close up `Jar The Beans` game :beans: :jar:
+It started as a learning project and evolved with new ideas. It's still a simple game, but more variantions are coming. <br/>
+I want to develop it enough to be in a usable state. I want it modular, so I can add more content without major issues. <br/>
+The final goal is 50 types of Jars, all with accessories, personalities, dialogues and proper hitboxes. <br/>
+For now, my goal is about 15 of them. <br/>
 
-This lead me to create my own one with a goal to make it optimized while looking good enough for a background usage.
+### 3. Develop a fully working website (WdAI) :spiral_notepad:
+I need a tool to write and visualize the stories, characters, and events of the worlds I'm trying to piece together. The problem is, there isn't one. <br/>
+So I decided that I can create one - and it just so happens that at we have a university course about Web development. <br/>
+I'm building up a website for adding notes, tagging, grouping and visualizing them - in order to clearly see where content may be lacking. <br/>
 
-It is almost completed, I used it already in Blender animation for university's project. I just want to add some last detail and finishing touches.
+For example: you've created two cities, one have 50 stories and 20 characters assigned to it, while the other one has only 20 stories and 4 characters. By visualizing this with nested lists (or size-reactive dots), you'll see where in the story you may lack extra content - helping you balance it better and avoid losing track of its complexity. <br/>
 
-
-#### Close up `Jar The Beans` game :beans: :jar:
-Started as a learning project it evolved with ideas. It is still a simple game, but with more variantions coming.
-
-I want to develop it enough to be in an usable and working state. I want to make it modular, just to be able to add more content without major issues.
-
-The final goal is 50 types of Jars, all with accesories, personalities, dialogues and proper hitboxes. 
-For my now my goal is about 15 of them.
-
-
-#### Develop a fully working website (WdAI) :spiral_note_pad:
-I needed a tool to write and visualize the stories, characters, events of the worlds I try to come up with. The problem is, there isn't a tool for that.
-
-So I decided that I can create one and just happen that at University we have a subject about Web development.
-
-I am going to build up a website which will let you add notes, tag, group and visualize them in order to clearly show you in which areas you may lack the content.
-
-An example: you have created two cities, one have assigned to it 50 stories and 20 characters, the other one has only 20 stories and 4 characters. By visualizing it in nested lists (or size-reactive dots) you'll see where in the story you may lack extra content letting you balance it evenly and not lost the track of it complexity.
-
-
-#### Make a game in Unreal Engine 5 as Uni project: chess or checkers :chess_pawn:
-One of the University subject is basically OOP - and we can make anything that includes it.
-
-So to futher improve my skills I am going to follow a tutorial and create a game in UE5 - either about chess or checkers.
-
-That's all to it.
-
+### 4. Make a game in Unreal Engine 5 as another Uni project: chess or checkers :chess_pawn:
+One of the university courses is basically OOP - and we can submit anything that uses it. <br/>
+So to further improve my skills I'm going to follow a tutorial and create a game in UE5 - either chess or checkers. <br/>
+That's all there is to it. <br/>
 <br/>
 
 
@@ -119,3 +106,4 @@ That's all to it.
 - [ ] Reinstall OS on my private laptop :cd:
 - [ ] Organize Google Drive and photos from it :floppy_disk:
 - [ ] Read the book: "Unity and C#. Practice of programming games" by Jacek Ross and follow the pace of the book in Unity :book:
+- [ ] Get ready for the GIC! :joystick: :joystick: :joystick:
